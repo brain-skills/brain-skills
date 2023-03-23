@@ -22,13 +22,13 @@
 ---
 
 ### Моя статистика на GitHub:
-[![](https://github-readme-stats.vercel.app/api?username=Gaga-Man)](https://github.com/Gaga-Man/first-exercise)
+[![](https://github-readme-stats.vercel.app/api?username=smart-skill)](https://github.com/smart-skill/smart-skill)
 
 
 ---
 
 ### Количество просмотров:
-![](https://komarev.com/ghpvc/?username=Gaga-Man)
+![](https://komarev.com/ghpvc/?username=smart-skill)
 
 ---
 
