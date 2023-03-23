@@ -10,9 +10,9 @@
 
 ### Я в соц.сетях:
 <div id="badges">
-  <a href="https://www.facebook.com/g.basharuli/"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
-  <a href="https://kwork.ru/user/georka"><img src="https://img.shields.io/badge/Kwork-yellow?style=for-the-badge&logo=kwork&logoColor=white" alt="Youtube Badge"/></a>
-  <a href="https://vk.com/georka"><img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+  <a href="https://www.facebook.com/g.basharuli/"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://kwork.ru/user/gaga-dev"><img src="https://img.shields.io/badge/Kwork-yellow?style=for-the-badge&logo=kwork&logoColor=white" alt="Kwork"/></a>
+  <a href="https://vk.com/georka"><img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Вконтакте"/></a>
 </div>
 
 
