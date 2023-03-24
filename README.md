@@ -43,7 +43,7 @@
     <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/back-end/php.png" title="PHP" alt="PHP" width="40" height="40"/> &nbsp;
     <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/back-end/ruby.png" title="Ruby" alt="Ruby" width="40" height="40"/> &nbsp;
     <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/back-end/perl.png" title="Perl" alt="Perl" width="40" height="40"/> &nbsp;
-    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/back-end/express.png" title="Express.JS" alt="Express" width="40" height="40"/> &nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/back-end/express.png" title="Express.JS" alt="Express" width="" height="40"/> &nbsp;
     <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/back-end/django.png" title="Django" alt="Django" width="" height="40"/>
   </div>
 
@@ -57,7 +57,7 @@
     <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/modx.png" title="ModX" alt="ModX" width="40" height="40"/> &nbsp;
     <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/drupal.png" title="Drupal" alt="Drupal" width="40" height="40"/> &nbsp;
     <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/typo3.png" title="Typo3" alt="Typo3" width="40" height="40"/> &nbsp;
-    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/woocommerce.png" title="WooCommerce" alt="WooCommerce" width="40" height="40"/> &nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/woocommerce.png" title="WooCommerce" alt="WooCommerce" width="" height="40"/> &nbsp;
     <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/yii.png" title="YII 2" alt="YII 2" width="40" height="40"/> &nbsp;
     <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/gitlab.png" title="GitLab" alt="GitLab" width="40" height="40"/>
   </div>
