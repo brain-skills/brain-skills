@@ -43,44 +43,49 @@
     &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ember/ember-original-wordmark.svg" title="Ember" alt="Ember" width="" height="40"/>
     &nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/behance.png" title="Behance" alt="Behance" width="" height="40"/>
+    &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="" height="40"/>
   </div>
 
 * ### __Back-end:__
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" title="Perl" alt="Perl" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="" height="40"/>
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/back-end/mysql.png" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/back-end/php.png" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/back-end/ruby.png" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/back-end/perl.png" title="Perl" alt="Perl" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/back-end/express.png" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/back-end/django.png" title="Django" alt="Django" width="" height="40"/>
   </div>
 
 * ### __Фреймворки/Системы:__
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/wordpress.png" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" title="Behance" alt="Behance" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/behance.png" title="Behance" alt="Behance" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/modx/modx-original.svg" title="ModX" alt="ModX" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" title="Drupal" alt="Drupal" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typo3/typo3-original.svg" title="Typo3" alt="Typo3" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="WooCommerce" alt="WooCommerce" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original.svg" title="YII 2" alt="YII 2" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/drupal.png" title="Drupal" alt="Drupal" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/typo3.png" title="Typo3" alt="Typo3" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/woocommerce.png" title="WooCommerce" alt="WooCommerce" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/yii.png" title="YII 2" alt="YII 2" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>
   </div>
 
 * ### __Приложения:__
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="Adobe After Effects" alt="Adobe After Effects" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="FileZilla" alt="FileZilla" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Firefox" alt="Firefox" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original.svg" title="Slack" alt="Opera" width="40" height="40"/>
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/applications/aftereffects.png" title="Adobe After Effects" alt="Adobe After Effects" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/applications/vscode.png" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/applications/anydesk.png" title="AnyDesk" alt="AnyDesk" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/applications/photoshop.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/applications/illustrator.png" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/applications/git.png" title="Git" alt="Git" width="" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/applications/office.png" title="Microsoft Office" alt="Microsoft Office" width="" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/applications/slack.png" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/applications/chrome.png" title="Chrome" alt="Chrome" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/applications/filezilla.png" title="FileZilla" alt="FileZilla" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/applications/firefox.png" title="Firefox" alt="Firefox" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/applications/sublime-text.png" title="Sublime-Text" alt="Sublime-Text" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/applications/opera.png" title="Slack" alt="Opera" width="40" height="40"/>
   </div>
