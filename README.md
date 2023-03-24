@@ -60,17 +60,17 @@
 
 * ### __Фреймворки/Системы:__
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/laravel.png" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
     <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/wordpress.png" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/figma.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/github.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
     <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/behance.png" title="Behance" alt="Behance" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/modx/modx-original.svg" title="ModX" alt="ModX" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/modx.png" title="ModX" alt="ModX" width="40" height="40"/>&nbsp;
     <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/drupal.png" title="Drupal" alt="Drupal" width="40" height="40"/>&nbsp;
     <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/typo3.png" title="Typo3" alt="Typo3" width="40" height="40"/>&nbsp;
     <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/woocommerce.png" title="WooCommerce" alt="WooCommerce" width="40" height="40"/>&nbsp;
     <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/yii.png" title="YII 2" alt="YII 2" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>
+    <img src="https://github.com/smart-skill/smart-skill/blob/main/assets/icons/framework-systems/gitlab.png" title="GitLab" alt="GitLab" width="40" height="40"/>
   </div>
 
 * ### __Приложения:__
