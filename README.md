@@ -12,7 +12,7 @@
 </div>
 
 ---
-### Моя статистика на GitHub:
+### Cтатистика:
 [![](https://github-readme-stats.vercel.app/api?username=brain-skills)](https://github.com/brain-skills/brain-skills)
 
 ---
